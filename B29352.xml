@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The desires of the commissioners of the kingdom of Scotland that both Houses of Parliament may sit in freedom for setling of religion, according to the covenant that King Charles the Second, upon just satisfaction given, may be admitted to the government of these kingdomes : together with their protestation against their proceedings to the contrary.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29352</idno><idno type="EEBO-CITATION">9606063</idno>
+  <idno type="VID">177317</idno>
+  <idno type="EEBO-PROQUEST">2264206934</idno>
+  
+            <idno type="STC">Wing S1002A</idno>
+            <idno type="OCLC">09606063</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177317)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2097:6, 1339:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The desires of the commissioners of the kingdom of Scotland that both Houses of Parliament may sit in freedom for setling of religion, according to the covenant that King Charles the Second, upon just satisfaction given, may be admitted to the government of these kingdomes : together with their protestation against their proceedings to the contrary.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated: 24 Feb. 1648. Lothian. Io. Chiesly, William Glendonyng.</note>
+                  <note>The copy of this item at reel 1339:35 is identified as Wing S975 (number cancelled in Wing CD-ROM, 1996).</note>
+                  <note>Reproduction of originals in the Bodleian Library (reel 1339:35) and Trinity College Library (reel 2097:6).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  Church history.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177317:1"/>
+            <p>THE DESIRES OF THE COMMISSIONERS OF THE Kingdom of <hi>Scotland,</hi> that both Houses of Parliament may fit in Freedom, for setling of Religion, according to the Co<g ref="char:EOLhyphen"/>venant, that King <hi>Charles</hi> the second, upon just satisfaction given, may be admitted to the Government of these Kingdomes.</p>
+            <p>Together with their Protestation against their proceedings to the contrary.</p>
+            <p>
+               <hi>LONDON,</hi> printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177317:2"/>
+            <pb n="1" facs="tcp:177317:2"/>
+            <head>THE DESIRES OF THE COM<g ref="char:EOLhyphen"/>missioners of the Kingdom of <hi>Scotland,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the yeare 1642. and afterwards in the year, 1643. When the Popish, Prelaticall, and Malignant party did grow prevalent in this Kingdom, the honourable Houses of Parliament did communicate severall De<g ref="char:EOLhyphen"/>clarations and Papers to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdom of <hi>Scotland,</hi> thereby to in<g ref="char:EOLhyphen"/>forme their judgements of the state of the differences here, and to gain their assistance, and invite their Forces to come into this King<g ref="char:EOLhyphen"/>dom. In which D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clarations, and other Papers, they affirm and de<g ref="char:EOLhyphen"/>clare.<note place="margin">Declarat. and ac<g ref="char:EOLhyphen"/>count to all the world. <hi>August</hi> 1642.</note>
+               <q>That the Army of the Houses of Parliament was raised for maintenance of the true Religion, the Kings Person, Honour and Estate, priviledges of Parliament, Rights and Liberties of Sub<g ref="char:EOLhyphen"/>jects; And for the prevention of the alteration of Religion. That their Enemies design was, to corrupt and alter Religion through<g ref="char:EOLhyphen"/>out the whole Island; And that they begun with <hi>Scotland,</hi> know<g ref="char:EOLhyphen"/>ing well, that the same fate attended both Kingdoms,<note place="margin">English Commis<g ref="char:EOLhyphen"/>sioners. <hi>August,</hi> 1643.</note> that they have only inverted the manner of their proceeding, conceiving it an easier way to destroy them, if they may first prevaile over the Parliament and Kingdom of <hi>England,</hi> that whensoever Religion is subverted or changed in the one Kingdom, it will easily be ac<g ref="char:EOLhyphen"/>complished in the other, Religion being the band and foundati<g ref="char:EOLhyphen"/>on of the happinesse of both; That what corruptions take root in <hi>England,</hi> will quickly spread their venome and infection to their neighbour Church of <hi>Scotland.</hi> They declare the true state of the quarrell to be Religion; In reformation whereof they are so for<g ref="char:EOLhyphen"/>ward and zealous, as there is nothing expressed in <hi>Scotlands</hi> for<g ref="char:EOLhyphen"/>mer or latter Declarations, which they have not seriously endea<g ref="char:EOLhyphen"/>voured to effect. They earnestly intreat the Generall Assembly, to further and expedite the Assistance, desired by both Houses, from the Kingdom of <hi>Scotland,</hi> upon this ground and motive;
+<pb n="2" facs="tcp:177317:3"/> That therby they shall do great service to God, and great honour may redound to themselves in becomming the instruments of a glorious Reformation, not only throughout this Isl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, but from thence possibly to be spread to other Churches oppr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssed under the Antichristian bondage, and tyranny of the popish and prelati<g ref="char:EOLhyphen"/>call faction. They commend the prudence and faithfulnes of the General Assembly of the Church of <hi>Scotland,</hi>
+                  <note place="margin">Declar<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. <hi>Septem.</hi> 1642. in answer to the <hi>Scots</hi> Declar<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</note> in propounding those things which may conduce to a more close and firm union of the two Churches and Nations of <hi>England</hi> and <hi>Scotland,</hi> in preserving and maintaining the truth and purity of the reformed Religion, not only against popery, but all Superstitious S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts and Innovations whatsoever: And declare, that the Houses of Parliament have ever made the Reformation of Church Go<g ref="char:EOLhyphen"/>vernment and Discipline, their chiefest aime, though they have been frequen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly interrupted, and powerfully opposed in the pro<g ref="char:EOLhyphen"/>secution and accomplishment of it:</q> And however they continue still in the storm and confl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, yet they take the peace, liberty, and preservation which God hath afforded <hi>Scotland,</hi> as a pledge of the like mercy intended to them in his good time, hoping that God will perfect their designs and indeavours of a full Reformation in all things pertaining to Religion. And professe their earnest desires for unity of Religion in all substantiall parts of doctrine, worship, and discipline; that both Kingdoms might be more strictly united, and inioy the advantages of his Maiesties more easie, safe, and com<g ref="char:EOLhyphen"/>fortable Government, the people a more free communion in all ho<g ref="char:EOLhyphen"/>ly exercises and duties of worship. And that there might be a more constant security of Religion,<note place="margin">Remon<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trance <hi>December,</hi> 1641.</note> against the bloody practises of Papists and deceitfull errors of Sectaries, They Remonstrate: <q>That it is far from their purpose or desire, to let loose the golden reins of Discipline and Government of the Church, to leave private per<g ref="char:EOLhyphen"/>sons, or particular Congregations, to take up what form of divine service they please, but doe hold it requisite, that there should be throughout the whole Realm, a conformity to that Order which the Lawes inioy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,<note place="margin">
+                     <hi>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>day,</hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>642.</note> accordin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the word of God.</q> They protest in the presence of the All-seein<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Deity, <q>that the services which
+<pb n="3" facs="tcp:177317:3"/> they have been desirous to perform to their Soveraign Lord and King, and to this Church and State, in providing for the publick peace and prosperity of his Maiestie and all his Realms, to have been, and still to be, the only end of all their Councels &amp; Endeavours; wherin they have resolved to continue freed, and inlarged from all private aimes, personall respects or passions whatsoever.</q> They oft mention their Protestation, taken by every Member of both Houses, promising in the presence of Almighty God, to defend his Maiestie, and disclaim the having any purpose to offer the least violence to his person, which ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, and ever shall be dear unto them. They declare, <q>that they expect the help and assistance of <hi>Scotland,</hi> in defence of the cause, whi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h if the Popish partie prevaile, must needs either involve them in that alteration of Religion, which will be made here; or ingage them in a war a<g ref="char:EOLhyphen"/>gainst this Kingdom, to defend their own Religion and Liberty.</q>
+               <note place="margin">Declarat. and Pro<g ref="char:EOLhyphen"/>testation to all the world. 1642.</note> And then professe before the everliving God, the safety of Re<g ref="char:EOLhyphen"/>ligion, Laws, and Liberties in this, and all other his Maiesties do<g ref="char:EOLhyphen"/>minions, to be the chiefe end of all their Councels and Resoluti<g ref="char:EOLhyphen"/>ons, without any intention or desire, to hurt or iniure his Maiestie either in his Person, or in his iust power; That they rest assured both God and man will abhor and abominate that monstrous and iniuri<g ref="char:EOLhyphen"/>ous charge laid upon the Representative bodie of this Kingdom,<note place="margin">Declarat. <hi>Novem.</hi> 1642.</note> of designing the ruin, not only of his Maiesties person, but of Monar<g ref="char:EOLhyphen"/>chy itself; and appeal to all the world, whether worse words then these can be given them.</p>
+            <p>These Declarations and solemn Engagements, were communi<g ref="char:EOLhyphen"/>cated to the Kingdom of <hi>Scotland,</hi> before they did joyn in war with the Houses of Parliament: And also both Kingdoms entred into a solemn League and Covenant, for Reformation and defence of Re<g ref="char:EOLhyphen"/>ligion: For uniformity in one Confession of Faith, form of Church Government, Directory for worship and Catechising, for extirpa<g ref="char:EOLhyphen"/>tion of Popery, Prelacie, Superstition, Heresie, Schisme, profannes and whatsoever shall be found contrary to sound Doctrine, and the power of Godlines: For preservation of the Rights and priviledges of Parliament, and liberties of the Subject: For the honour and
+<pb n="4" facs="tcp:177317:4"/> happinesse of the King and his posterity; and the peace and safety of these Kingdoms.</p>
+            <p>In the year 1646. After the power and strength of the Enemie was broken,<note place="margin">Declarat. of the House Comons 17. <hi>April.</hi> 1646.</note> the House of Commons did upon the 17 of <hi>April</hi> pub<g ref="char:EOLhyphen"/>lish a Declaration (which they likewise caused to be set up and a<g ref="char:EOLhyphen"/>fixe in every parish Church) wherein they vindicate themselves from severall misconstructions, and mis-representa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions of their proceedings: As that they should have any intentions or desire, to make use of the great successe God hath given them, contrary to their former professions, or to exceed or swerve from their first aimes and principles in the undertaking this war: and to recede from the solemn League and Covenant, and Treaties betwixt the Kingdoms, or to prolong these uncomfortable troubles, and blee<g ref="char:EOLhyphen"/>ding distractions, in order to alter the fundamentall constitution and frame of this Kingdom, and to leave all Government in the Church loose and unsetled, and themselves to exercise the same arbitrary power over the persons and Estates of the Subiects, which the present Parliament had thought fit to abolish, by taking away the Star Chamber, High Commission, and other arbitrary Courts, and the exorbitant power of the Councel Table. And further they declare, <q>That their true and reall intentions are, and their endea<g ref="char:EOLhyphen"/>vours shall be, to settle Religion in the purity thereof according to the Covenant; and to maintain the antient and fundamental con<g ref="char:EOLhyphen"/>stitution and Government of this Kingdom, by <hi>King, Lords,</hi> and <hi>Commons.</hi>
+               </q>
+            </p>
+            <p>In <hi>November</hi> 1647. when a Petition was presented to the House of Commons, stileing them the supreame Authority of the Nati<g ref="char:EOLhyphen"/>on, together with a printed paper annexed, Intituled the Agree<g ref="char:EOLhyphen"/>ment of the <hi>People,</hi> for a firme and present peace, upon grounds of common right,) which agreement, as we have found upon perusall of both) is the same for substance, with the agreement lately pub<g ref="char:EOLhyphen"/>lished) the House of Commons did declare, that the matters con<g ref="char:EOLhyphen"/>tained in those papers, were destructive to the being of Parliament, and to the fundamentall Government of the Kingdome; And ap<g ref="char:EOLhyphen"/>poynted a letter to be written to the Generall, to examine the
+<pb n="5" facs="tcp:177317:4"/> proceeding of that businesse in the Army, and returne an account thereof to the House. And when another petition directed to the Supreame Authority of England, the Commons in Parliament assembled, was presented the 23. of the same Moneth, they voted that Peti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, a seditious and contemptuous, avowing, and prosecu<g ref="char:EOLhyphen"/>ting of the former petition and paper annexed, Stiled an Agree<g ref="char:EOLhyphen"/>ment of the people, formerly adjudged to be distructive to the be<g ref="char:EOLhyphen"/>ing of Parliaments and fundamentall government of the Kingdom, and another letter was appoynted to be sent to the Generall, to take notice of his proceedings in the execution of a mutinous per<g ref="char:EOLhyphen"/>son (who was an abetter of that agreement) at the Randisvouze neere <hi>Ware,</hi> and to give him thankes for it, and desire him to pro<g ref="char:EOLhyphen"/>secute the examinations of that businesse, to the bottome, and to bring such guilty persons as he shall thinke fit, to condigne and exemplary punishment, all which declarations, protestations, Oathes, Covenants, and solemn Ingagements, notwithstanding we find to our great giefe, wonder and astonishment, that contrary to the discent and protestation of the Kingdome of Scotland, his Ma<g ref="char:EOLhyphen"/>jestie is removed out of this life, by a violent death; That Orders are published in print, Entituled Acts of Parliament, prohibiting the proclaiming of the Prince of <hi>Wales,</hi> King of these Kingdomes, that the Commons which now sit at <hi>Westminster,</hi> (after many Members of that House, have been imprisoned, secluded by force or necessitated to withdraw, because they cannot act as in a free Parliament) have voted away the Kingly office, and the House of Lords, and claime the authority of a Parliament, and under col<g ref="char:EOLhyphen"/>lour thereof, the Power of repealing all Oathes of Allegiance or obedience whatsoever, even without exception of the Solemn leagve and Covenant, from which the conscience cannot be ab<g ref="char:EOLhyphen"/>solved by all the powers on earth. We see likewise strong endea<g ref="char:EOLhyphen"/>vours used, and resolutions taken, to maintaine a Licensious liber<g ref="char:EOLhyphen"/>ty, and ungodly toleration, in matters of Religion,) As appeareth by a paper lately published, commonly called an Agreement of the people against which upon the 26th of <hi>January</hi> last, wee did pre<g ref="char:EOLhyphen"/>sent a testimonie, from the Commisioners of the General Assem<g ref="char:EOLhyphen"/>bly of the Church of <hi>Scotland</hi> approved of by the States of Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="6" facs="tcp:177317:5"/> of that Kingdome. If the Honourable Houses of the Parlia<g ref="char:EOLhyphen"/>ment of England, who made the Declaration and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment a<g ref="char:EOLhyphen"/>foresaid, ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been permi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to sit and act with freedome, we know there wou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d have beene no such proceedings as we have already seene, nor cause to feare such dangerous evills and strange alterati<g ref="char:EOLhyphen"/>ons as are now carried on by will and power. We may confident<g ref="char:EOLhyphen"/>ly say, they would have been more mindfull of their many Decla<g ref="char:EOLhyphen"/>rations, and the Solemn Leagve and Covenant; and more ready to hearken to the advice of their brethren of <hi>Scotland,</hi> and how<g ref="char:EOLhyphen"/>ever, no regard hath been had by those who now rule, to what we have formerly said, and so we have small hopes, that any great notice shall be taken of what we shall further say; Yet in pursuance of the instructions we have receved from the Parliament of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> we hold it our dutie to desire, that there may be no toleration of Idolatry, <hi>Popery, Prelacy, Heresie, Scisme</hi> or prophannes, that ther be no change of the fundamentall constitution and Government of this Kingdome, by King, Lords and Commons, that there may be nothing done which may wrong King <hi>Charles</hi> the Second, in his succession, as righteous heire of the Crowne of these King<g ref="char:EOLhyphen"/>domes: But that by the free Councell of both Houses of Parlia<g ref="char:EOLhyphen"/>ment, reformation of, and uniformity in Religion may be setled, according to the Covenant, and particularly, that Presbyteriall Government, the confession of Faith, D<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ectory for worship, and Catichisme, may be established, that the just Right and Tittle of King <hi>Charles</hi> the Second, to the Crowne of these Kingdomes, may be acknowledged and upon just satisfaction given to both Kingdomes, he may be received and admitted to the exercise of his Government. And if notwithstanding all our earnest desires and endeavours to the contrary, the Commons now sitting at <hi>Westminster,</hi> shall proceed otherwise in all or any of the particulars aforesaid; we doe hereby in the name of the Parliament and King<g ref="char:EOLhyphen"/>come o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Scotland</hi> dissent from the same, and solemnly protest that they may be fr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e before God and Man of all the guiltinesse, evils, confusions miseries and calamities that may follow thereupon to these distracted Kingdoms,</p>
+            <closer>
+               <dateline>
+                  <date>24. Feb. 1648.</date> Lothian.</dateline>
+               <signed>
+                  <list>
+                     <item>Io. Chiesly.</item>
+                     <item>VVilliam Glendonyng.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
